@@ -1,3 +1,5 @@
+ *Please email your answers back to kyle@solidstategroup.com, matthewe@solidstategroup.com and benk@solidstategroup.com.*
+
 **Question 1**
 
 1. A private variable called 'privateVar' with the value 'I am private'
