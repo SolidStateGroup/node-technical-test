@@ -1,12 +1,12 @@
  *Please email your answers back to kyle@solidstategroup.com, matthewe@solidstategroup.com and benk@solidstategroup.com.*
 
 **Question 1**
+Complete the example below so that it has the following:
 
 1. A private variable called 'privateVar' with the value 'I am private'
 2. A public variable called 'publicVar' with the value 'I am public'
 3. A private function called 'privateFnc' that when called outputs 'I am a private fnc'
 4. A public function called 'publicFnc' that when called outputs 'I am a public     fnc'
-
 
 ```
 console.log(myObj.privateVar); // outputs undefined
@@ -26,10 +26,6 @@ Write a function that reads a json file* and writes an array with the min and ma
   [1,2,3]
 ]
 ```
-
-**Question 3** 
-
-Write a function that spawns 2 child node processes that send back "Hello world" after x milliseconds, the delay should be defined by an argument (e.g. ```node child_process 100```). The function should return a promise that resolves with the results of all child processes.
 
 **Question 3** 
 
