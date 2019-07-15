@@ -1,4 +1,4 @@
- *Please email your answers back to kyle@solidstategroup.com, matthewe@solidstategroup.com and benk@solidstategroup.com.*
+ *Please email your answers back to kyle@solidstategroup.com, matthewe@solidstategroup.com and ben@solidstategroup.com.*
 
 **Question 1**
 Complete the example below so that it has the following:
